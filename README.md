@@ -1,9 +1,13 @@
 <h1 align="center">Hi, my name is Jakob</h1>
 <h3 align="center">I am a Data Analyst from Berlin</h3>
 
+I recently finished the Le Wagon Data Science Bootcamp in Berlin
+
 - 🔭 I’m currently working on [cylce_safe(berlin), a dashboard on bike safety in Berlin](https://github.com/hmichinaka/berlin-bike-theft-forecasting)
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **SQL** and revise the Data Science Bootcamp topics
+
+- 🔭 I am looking for new projects to increase my Python and SQL skills
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
