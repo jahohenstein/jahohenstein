@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Jakob</h1>
-<h3 align="center">I am a Data Analyst from Berlin</h3>
+<h3 align="center">I am a Junior Data Analyst from Berlin</h3>
 
 I recently finished the Le Wagon Data Science Bootcamp in Berlin
 
