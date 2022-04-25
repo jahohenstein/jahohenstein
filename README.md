@@ -3,7 +3,7 @@
 
 I recently finished the Le Wagon Data Science Bootcamp in Berlin
 
-- 🔭 I’m currently working on [cylce_safe(berlin), a dashboard on bike safety in Berlin](https://github.com/hmichinaka/berlin-bike-theft-forecasting)
+- 🔭 I’m currently working on [cylce_safe(berlin), a dashboard on bike safety in Berlin](https://cyclesafeberlin.herokuapp.com/)
 
 - 🌱 I’m currently learning **SQL** and revise the Data Science Bootcamp topics
 
